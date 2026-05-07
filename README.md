@@ -59,7 +59,8 @@ Matplotlib 📊
 - HTML + CSS → Frontend Developer  
 - Machine Learning → ML Engineer  
 - Java → Java Developer  
-- Otherwise → Skill data insufficient  
+- Otherwise → Skill data insufficient
+
 
  🚀 How to Run
 
@@ -84,6 +85,10 @@ Ai-resume-analyzer/
 ├── requirements.txt
 └── README.md
 ```
+ 🚀 Live Demo
+
+🔗 Click here to open the app:  
+👉 [AI Resume Analyzer] (https://ai-resume-analyzer-423azkamvzucmlz3w7mrnk.streamlit.app/)
 
  🎯 Learning Purpose
 
